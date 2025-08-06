@@ -1,4 +1,4 @@
-# Transbox-翻译全能工具箱
+# Transbox-翻译全能工具箱 --> [https://www.transbox.top](www.transbox.top)
 Transbox是一款可快速智能的处理各样翻译任务的桌面工具，包括传统文档翻译，本地化翻译，桌面划词翻译，截图翻译和语料管理等于一体的智能管理系统。
 
 
